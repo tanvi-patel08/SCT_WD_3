@@ -21,3 +21,7 @@ Through this project, I strengthened my understanding of:
 • Event handling and application logic structuring
 • State management in interactive applications
 • Building scalable frontend projects
+
+
+https://github.com/user-attachments/assets/067f0627-0e0b-4009-b5d1-6cdfe19807a4
+
