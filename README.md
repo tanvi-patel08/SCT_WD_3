@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎯 Project Showcase: Trivia Heist – Interactive Quiz Application
+The goal of this project was to build a structured, scalable quiz system using TypeScript to ensure better type safety, maintainability, and cleaner code architecture.
 
-# Run and deploy your AI Studio app
+✨ Key Features:
+• Dynamic multiple-choice quiz system
+• Real-time answer validation and score tracking
+• Structured question flow with controlled state management
+• Instant feedback for user responses
+• Responsive and clean UI design
+• Smooth transitions and interactive user experience
 
-This contains everything you need to run your app locally.
+🛠️ Tech Stack Used:
+• HTML5
+• CSS3
+• TypeScript (for structured logic and type-safe development)
+• Modern frontend tooling setup
 
-View your app in AI Studio: https://ai.studio/apps/drive/1dhYfUsikNoO3j032RTlBm96h1WTT2jCS
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Through this project, I strengthened my understanding of:
+• TypeScript fundamentals and type safety
+• DOM manipulation using TypeScript
+• Event handling and application logic structuring
+• State management in interactive applications
+• Building scalable frontend projects
